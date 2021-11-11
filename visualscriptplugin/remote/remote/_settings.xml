@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <VisualScriptJavaJarPath></VisualScriptJavaJarPath>
+  <________ignore________>NOTE: Below items can also be fetched through invocation arguments defined in plugin descriptor. Ignore the underscore edges in names.</________ignore________>
+  <_CommunicationEndpoint_>localhost:$port$</_CommunicationEndpoint_>
+  <_ScreenshotsDirectory_></_ScreenshotsDirectory_>
+  <_EnginePID_></_EnginePID_>
+  <_CustomLibraryFolderPath_></_CustomLibraryFolderPath_>
+  <_PluginSettingXmlPath_></_PluginSettingXmlPath_>
+  <_SessionSnapshotFrequency_>AllSteps</_SessionSnapshotFrequency_>
+  <_SessionSnapshotQuality_>High</_SessionSnapshotQuality_>
+  <_CommunicationProtocol_>TCP_v01</_CommunicationProtocol_>
+  <_LogSinkEndpoint_></_LogSinkEndpoint_>
+</Settings>
